@@ -1,0 +1,3 @@
+./configure --enable-shared --without-gtk --without-qt --without-python
+make
+make install

@@ -1,3 +1,4 @@
 ./configure --enable-shared --without-gtk --without-qt --without-python
+export CFLAGS="" 
 make
 make install
